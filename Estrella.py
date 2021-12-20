@@ -11,5 +11,8 @@ while True:
     if abs(pos()) < 1:
         break
 
+#Le decimos al programa que pare de pintar
+end_fill()
+done()
 
 
