@@ -4,4 +4,4 @@ https://github.com/pelahumi/Estrella
 
 El diagrama de flujo de esta tarea es el siguiente:
 
-!Diagrama de flujo
+![Diagrama de flujo](
